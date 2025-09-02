@@ -55,7 +55,7 @@ Este projeto foi desenvolvido durante o programa Oracle Next Education em parcer
 Não requer instalação complexa! Basta clonar este repositório ou baixar os arquivos e abrir o `index.html` no navegador.
 
 ```bash
-git clone https://github.com/seuusuario/amigo-secreto.git
-cd amigo-secreto
+git clone https://github.com/anafbarreto/challenge.git
+cd challenge
 open index.html  # ou abra diretamente no navegador
 
