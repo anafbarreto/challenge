@@ -36,7 +36,7 @@ Este projeto foi desenvolvido durante o programa Oracle Next Education em parcer
 ## Demonstração em vídeo
 
 
-[![Vídeo Demonstração](assets/video.webm)]
+![Vídeo Demonstração]([video.webm](https://github.com/user-attachments/assets/6122a42b-a697-45d1-8a0d-700eb5e6ad6e))
 
 ---
 
@@ -59,3 +59,4 @@ Não requer instalação complexa! Basta clonar este repositório ou baixar os a
 git clone https://github.com/seuusuario/amigo-secreto.git
 cd amigo-secreto
 open index.html  # ou abra diretamente no navegador
+
