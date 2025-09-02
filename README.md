@@ -35,8 +35,7 @@ Este projeto foi desenvolvido durante o programa Oracle Next Education em parcer
 
 ## Demonstração em vídeo
 
-
-![Vídeo Demonstração]([video.webm](https://github.com/user-attachments/assets/6122a42b-a697-45d1-8a0d-700eb5e6ad6e))
+[video.webm](https://github.com/user-attachments/assets/96f771fe-c321-4dad-ae96-2767b1cce097)
 
 ---
 
